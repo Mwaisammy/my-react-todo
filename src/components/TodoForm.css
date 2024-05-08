@@ -1,0 +1,32 @@
+.todoForm{
+    background-color: #fff;
+    display: flex;
+    justify-content: center; 
+    padding: 20px auto 200px;
+    border-radius: 40px;
+    margin-top: 30px;
+   
+}
+
+.todoForm input{
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 10px 0 10px 30px;
+
+}
+
+.todo-btn{
+    padding: 20px 50px;
+    background: orange;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    color: #fff;
+
+
+}
+.todo-btn:hover{
+    background: rgb(239, 158, 8);
+}
